@@ -206,7 +206,7 @@ un generador de cd simplificado compuesto de una sola espira de alambre en un ca
 
 ![image](https://user-images.githubusercontent.com/105570939/177935993-471b6748-aab4-4623-8ceb-7a55d64f34c9.png)
 
-**12.-Cuando se conecta un resistor de 10 kÆ desde la terminal A hasta la terminal B en la figura, ¿cuál es la corriente que circula a través de él?
+**12.-Cuando se conecta un resistor de 10 kÆ desde la terminal A hasta la terminal B en la figura, ¿cuál es la corriente que circula a través de él?**
 
 ![image](https://user-images.githubusercontent.com/105570939/177936278-18b4b014-b519-4210-beec-edc9f45f336f.png)
 
