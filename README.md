@@ -125,8 +125,106 @@ un generador de cd simplificado compuesto de una sola espira de alambre en un ca
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
-La solución deb estar en esta sección, no como un archivo anexo.
+**SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos.**
+
+**1.-Evalúe cada determinante:**
+
+![image](https://user-images.githubusercontent.com/105570939/177922415-d88682f2-1129-4bb3-98d4-fbda03a1d1b6.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177923180-1659968d-7f24-47c8-b733-43caca165cbd.png)
+
+**2.-Evalúe cada uno de los determinantes:**
+
+![image](https://user-images.githubusercontent.com/105570939/177923279-75a766a2-e9d9-4370-bd12-71fc8dcebacd.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177924275-0fd8548c-c03f-4d27-ae94-9660fd22ac1f.png)
+
+**3.-Determine I3 en el ejemplo 9-4.**
+
+![image](https://user-images.githubusercontent.com/105570939/177924500-dce15d20-7449-450c-8b70-b713311ae4b9.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177924822-76bc2c21-644c-4f8b-86a3-2b23c814ab4a.png)
+
+**4.-Determine V1, V2, V3 y V4 resolviendo el siguiente conjunto de ecuaciones con una calculadora:**
+
+![image](https://user-images.githubusercontent.com/105570939/177924949-c1b54bce-07be-4c7a-99ec-839e901bd5b4.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177925148-f8d22cb7-54c5-4e0e-9466-847a4b780b7f.png)
+
+**5.-Resuelva las tres ecuaciones simultáneas del problema 7 con su calculadora.**
+
+![image](https://user-images.githubusercontent.com/105570939/177925224-22295f60-8986-4fb0-bd76-dea26d7f55e0.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177925452-3a259c19-790f-42e1-b505-84cde0e2df04.png)
+
+**SECCIÓN 9–2 Método de la corriente en ramas.**
+
+**6.-Resuelva para cada una de las corrientes de rama ilustradas.**
+
+![image](https://user-images.githubusercontent.com/105570939/177925606-6bb227ec-8310-45cd-9fdf-5f5044810de8.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177927136-49b3980f-405a-493a-aa43-b71ddae0fba0.png)
+
+**7.-Determine la corriente a través de cada resistor de la siguiente figura.**
+
+![image](https://user-images.githubusercontent.com/105570939/177927273-1f01402b-a959-4e8a-a3dc-25aeacbd7c2b.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177928127-369bd775-6e62-4dde-8abe-c14ae089b019.png)
+
+**SECCIÓN 9–3 Método de la corriente en lazos.**
+
+**8.-Escriba el determinante característico para las ecuaciones:**
+
+![image](https://user-images.githubusercontent.com/105570939/177928328-bd72284c-b15b-4e27-90a6-791fcf927302.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177928617-b2c1ba5b-13f3-4356-95d4-cde1137ca7ee.png)
+
+**9.-Determine las corrientes de rama en la figura**
+
+![image](https://user-images.githubusercontent.com/105570939/177928713-cd294c7d-256b-461d-a466-b2e041349543.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177930519-ce8f0f2d-2803-4b69-93e4-4446f2ecf6a5.png)
+
+**10.-Escriba las ecuaciones de lazo para el circuito de la figura.**
+
+![image](https://user-images.githubusercontent.com/105570939/177930676-4695d8a0-c610-40d9-bec9-57a72b53ad60.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177930878-2b6983b4-9844-4deb-b1af-24bf335dc4dd.png)
+
+**11.-Determine la corriente a través de cada resistor en la figura.**
+
+![image](https://user-images.githubusercontent.com/105570939/177930959-b3236b90-b93f-4b34-aebe-4dba0e8017a3.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177935993-471b6748-aab4-4623-8ceb-7a55d64f34c9.png)
+
+**12.-Cuando se conecta un resistor de 10 kÆ desde la terminal A hasta la terminal B en la figura, ¿cuál es la corriente que circula a través de él?
+
+![image](https://user-images.githubusercontent.com/105570939/177936278-18b4b014-b519-4210-beec-edc9f45f336f.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177936707-a6b0c7c9-0225-4552-b812-133a1fe957aa.png)
+
+**SECCIÓN 9–4 Método del voltaje en nodos.**
+
+**13.-En la figura, use el método del voltaje en nodos para determinar el voltaje presente en el punto A con respecto a tierra.**
+
+![image](https://user-images.githubusercontent.com/105570939/177936985-75fb12cf-58d2-44dd-aae0-a1839083785f.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177937623-18126568-dccc-400d-beed-f1e293b09b64.png)
+
+**14.-Escriba las ecuaciones de voltaje de nodo para la figura. Use su calculadora para determinar los voltajes de nodo.**
+
+![image](https://user-images.githubusercontent.com/105570939/177937833-56782c19-1160-4d52-b593-5fc602f6c649.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177941113-042c6798-2b11-42c0-8226-8051bee0add9.png)
+
+**15.-Determine el voltaje en los puntos A, B y C en la figura.**
+
+![image](https://user-images.githubusercontent.com/105570939/177941246-96d0bdc2-30f0-4920-98a3-77c65b47b53d.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177941555-ca43fc44-9b15-4ac2-9559-5707574d1d6d.png)
+
+**
+
 
 4. VIDEO
 
