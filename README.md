@@ -58,7 +58,70 @@ Los imanes permanentes se utilizan en interruptores, tales como el interruptor m
 
 ![Mapa conceptual (4)](https://user-images.githubusercontent.com/105570939/177905827-b16d479a-aea8-483b-a044-976d5aaa6628.jpeg)
 
+**DISPOSITIVOS ELECTROMAGNÉTICOS.**
 
+**El solenoide**
+
+Es un tipo de dispositivo electromagnético provisto de un núcleo de hierro móvil llamado émbolo. El movimiento de este núcleo de hierro depende tanto del campo electromagnético como de la fuerza mecánica de un resorte.
+
+![image](https://user-images.githubusercontent.com/105570939/177918808-e446227f-5aa1-4be0-ba6c-1faeacf0c434.png)
+
+**La válvula solenoide**
+
+Son ampliamente utilizadas para controlar el flujo de aire, agua, vapor, aceites, refrigerantes, y otros fluidos. Se utilizan válvulas solenoide en sistemas tanto neumáticos (aire) como hidráulicos (aceite), que son comunes en controles de máquinas.
+
+**El relevador**
+
+Se utiliza para abrir o cerrar contactos eléctricos y no para producir movimiento mecánico. Los relevadores de lengüeta son superiores a los de armadura en el sentido de que son más rápidos, más confiables, y producen menos arcos por contacto. Sin embargo, su capacidad de manejo de corriente es menor que la de los relevadores de armadura y son más susceptibles al choque mecánico.
+
+![image](https://user-images.githubusercontent.com/105570939/177919181-b9d40403-b792-4d65-9645-6703c9242722.png)
+
+**El altavoz**
+
+Un altavoz es un dispositivo electromagnético que convierte señales eléctricas en ondas sonoras. Comúnmente se utilizan altavoces de imán permanente en estéreos, radios y televisiones y su Operación básica de un altavoz. está basada en el principio de electromagnetismo. Un altavoz típico se compone tanto de un imán permanente como de un electroimán.
+
+**HISTÉRESIS MAGNÉTICA**
+
+**Intensidad de campo magnético (H)**
+
+llamada también fuerza magnetizante en un material se define como la fuerza magnetomotriz (Fm) por unidad de longitud (l) del material.
+
+![image](https://user-images.githubusercontent.com/105570939/177919712-dcd298b1-ec65-42b5-bbcb-d2cd55d181a6.png)
+
+**Lacurva de histéresis y retentividad**
+
+**Histéresis**
+
+Es una característica de un material magnético por la cual un cambio de magnetización
+retrasa la aplicación de la intensidad de campo magnético. La intensidad de campo magnético (H) puede ser incrementada o reducida con facilidad variando la corriente a través de la bobina de alambre, y puede ser invertida invirtiendo la polaridad del voltaje presente en la bobina.
+
+**Retentividad**
+
+La retentividad de un material representa el flujo máximo que puede ser retenido después de que el material ha sido magnetizado hasta la saturación y se indica mediante la relación de BR a Bsat.
+
+**INDUCCIÓN ELECTROMAGNÉTICA**
+
+**Movimiento relativo**
+
+Cuando un conductor se mueve a través de un campo magnético, existe un movimiento relativo entre el conductor y el campo magnético. Asimismo, cuando un campo magnético se mueve más allá de un conductor estacionario, también existe movimiento relativo.
+
+![image](https://user-images.githubusercontent.com/105570939/177920347-9d85cf5a-decd-403e-8006-bac2e2fa7d01.png)
+
+![Mapa conceptual (5)](https://user-images.githubusercontent.com/105570939/177921178-a9659763-ca99-46c7-ab41-fbd0e2f8bd49.jpeg)
+
+**APLICACIONES DE LA INDUCCIÓN ELECTROMAGNÉTICA**
+
+**Sensor de posición de un cigüeñal automotriz**
+
+Una aplicación automotriz de la inducción electromagnética implica un tipo de sensor de motor que detecta la posición del cigüeñal. El controlador electrónico de motor instalado en muchos automóviles utiliza la posición del cigüeñal para ajustar el tiempo de encendido y, en ocasiones, ajustar el sistema de control del combustible.
+
+![image](https://user-images.githubusercontent.com/105570939/177921352-ac46b1d9-245f-415a-8e84-4a2fc755c5a4.png)
+
+**Generador de CD**
+
+un generador de cd simplificado compuesto de una sola espira de alambre en un campo magnético permanente. Observe que cada extremo de la espira de alambre está conectado a un anillo partido. Este anillo metálico conductor se llama conmutador. Conforme la espira de alambre gira en el campo magnético, el anillo conmutador partido también gira. Cada una de las mitades del anillo partido frota contra los contactos fijos, llamados escobillas, y conecta la espira de alambre a un circuito externo.
+
+![image](https://user-images.githubusercontent.com/105570939/177921649-27975611-8c39-4521-a38b-a82d45494f49.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
