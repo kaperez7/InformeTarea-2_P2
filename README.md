@@ -307,7 +307,7 @@ Se estable las conclusiones de cada asunto investigado, implicaciones para la te
 
 6. BIBLIOGRAFÍA
 
-Emplear normas APA.
+Floyd, T. (2007). Principios de circuitos electricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
 
 RUBRICA
 
