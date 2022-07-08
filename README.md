@@ -223,8 +223,77 @@ un generador de cd simplificado compuesto de una sola espira de alambre en un ca
 
 ![image](https://user-images.githubusercontent.com/105570939/177941555-ca43fc44-9b15-4ac2-9559-5707574d1d6d.png)
 
-**
+**CAPITULO 10**
 
+**SECCIÓN 10–1 El campo magnético.**
+
+**16.-En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 microWb. ¿Cuál es la densidad de flujo?.**
+
+![image](https://user-images.githubusercontent.com/105570939/177942911-b0f18a8f-31fc-46a6-8156-c3718efa994e.png)
+
+**17.-En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas.**
+
+![image](https://user-images.githubusercontent.com/105570939/177943059-d6e214a4-b01c-4fc4-a7fb-f4927cf987ba.png)
+
+**SECCIÓN 10–2 Electromagnetismo.**
+
+**18.-¿Qué le sucede a la aguja de la brújula mostrada en la figura cuando la corriente que circula a través del conductor se invierte?
+
+![image](https://user-images.githubusercontent.com/105570939/177943467-789e094e-506d-457d-8eb5-44ac67bbb8fb.png)
+
+Al invertir la direción de la corriente se cambia la dirección del flujo magnético. Entonces lo que sucederá con la aguja de la brújula será que gire 180°
+
+**19.-Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08m^2 si la permeabilidad absoluta es de 150(10-7) Wb/At(m).**
+
+![image](https://user-images.githubusercontent.com/105570939/177944678-f667b333-0110-4575-b34d-25a0db44e4ad.png)
+
+**SECCIÓN 10–3 Dispositivos electromagnéticos.**
+
+**20.-De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?**
+
+El émbolo se retrae cuando se activa el solenoide.
+
+**21.-Explique la secuencia de los eventos mostrados en el circuito de la figura, comenzando cuando el interruptor 1 (SW1) se cierra.**
+
+![image](https://user-images.githubusercontent.com/105570939/177945197-eaf39945-4a74-42ab-9b41-eee4383b6aa9.png)
+
+Cuando el relé se conecta a lo 9 voltios se enciende la lámpara dos y la lámpara uno se apaga.
+
+**SECCIÓN 10–4 Histéresis magnética.**
+
+**22.-¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?**
+
+![image](https://user-images.githubusercontent.com/105570939/177946464-d494a883-4daf-412e-b322-949bc4ec7767.png)
+
+**23.-En la figura, hay 500 vueltas. Determine.**
+
+![image](https://user-images.githubusercontent.com/105570939/177946758-e80fa8ee-0f27-48a7-9a50-fc63d54826fa.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177946820-3a0bc000-3a52-4a61-b2c8-322f137a7289.png)
+
+![image](https://user-images.githubusercontent.com/105570939/177947351-d4e298d9-6f2d-42d4-83a1-c409851eb3ad.png)
+
+**SECCIÓN 10–5 Inducción electromagnética.**
+
+**24.-De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?**
+
+Se duplica cuando la tasa de cambio del flujo magnético se duplica.
+
+**25.-Un campo magnético cambia a razón de 3500x10x3 Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?**
+
+![image](https://user-images.githubusercontent.com/105570939/177949527-d524c8fd-dc2b-4cb0-adc1-ba159d353ffb.png)
+
+**SECCIÓN 10–6 Aplicaciones de la inducción electromagnética.**
+
+**26.-En la figura, ¿por qué no se induce voltaje cuando el disco no está girando?**
+
+![image](https://user-images.githubusercontent.com/105570939/177949880-1731d85e-5bbe-4815-90d6-0bf1a73434d5.png)
+
+No hay voltaje inducido porque el campo magnético no cambia.
+
+**27.-Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)? **
+
+Como una rotación tiene cuatro posiciones, entonces el voltaje de cd de salida llega 15 veces cada segundo a su pico alcanzando un voltaje máximo.
 
 4. VIDEO
 
