@@ -56,6 +56,8 @@ Los imanes permanentes se utilizan en interruptores, tales como el interruptor m
 
 **ELECTROMAGNETISMO.**
 
+![Mapa conceptual (4)](https://user-images.githubusercontent.com/105570939/177905827-b16d479a-aea8-483b-a044-976d5aaa6628.jpeg)
+
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
