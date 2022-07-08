@@ -3,6 +3,15 @@
 
 1. OBJETIVOS
 
+**Objetivo general**
+
+• Analizar el capítulo 9 y capítulo 10 del libro a través una lectura comprensiva y de información seleccionada de internet para resolver los ejercicios planteados por el libro, para tener un mejor conocimiento de los temas tratados en los capítulos mencionados.
+
+**Objetivo específico**
+
+* Comprender la teoría de los conceptos básicos mostrados correspondientes a los capítulos 9 y 10.
+* Resolver los ejercicios planteados mediante los métodos que se presentan análisis de ramas,lazos y nodos.
+* Aplicar la teoría aprendida en los ejercicios propuestos de cada capítulo.
 
 2. MARCO TEÓRICO (RESUMEN)
 
@@ -303,7 +312,9 @@ En el video se debe explicar 4 ejercicios o problemas.
 
 5. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+* En conclusión, las ecuaciones simultáneas pueden ser resueltas por los metódos de sustitución, por determinantes, o con una calculadora graficadora, es importante tener en cuenta que el número de ecuaciones debe ser igual a la cantidad de incógnitas.
+* El método de la corriente en ramas está basado en las leyes del voltaje y de la corriente de Kirchhoff, mientras que el método de la corriente en lazos está basado en la ley del voltaje de Kirchhoff y por último el método del voltaje en nodos está basado en la ley de la corriente de Kirchhoff.
+* Tras el analisis de los temas estudiados en el capitulo 9 y 10 podemos aplicar el conocimiento obtenido para la resolucion de los ejercicios planteados ya que se requiere de tener claro los conceptos de los teoremas dados y de las formulas para aplicarlas en los diferentes ejercicios.
 
 6. BIBLIOGRAFÍA
 
